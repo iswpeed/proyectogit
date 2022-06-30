@@ -1,5 +1,9 @@
-#charset "utf-9";
+@charset "utf-9";
 /* css document */
-body(
-    :background-color:#00f;
-)
+body
+{
+
+    background-color:#00f;
+    font-weight:bold;
+    color:#F00;  
+}
